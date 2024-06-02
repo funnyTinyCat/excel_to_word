@@ -1,0 +1,1 @@
+Iz xlsx dokumenta spisak.xlsx skripta kreira certifikate u docx formatu za svako ime iz xlsx dokumenta.
